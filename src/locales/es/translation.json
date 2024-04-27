@@ -1,0 +1,10 @@
+
+{
+    "welcome": "¡Bienvenido a mi sitio web!",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "invalidCredentials": "Usuario o contraseña inválidos"
+  }
+  

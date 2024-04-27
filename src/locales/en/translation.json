@@ -1,0 +1,10 @@
+
+{
+    "welcome": "Welcome to my website!",
+    "login": "Login",
+    "logout": "Logout",
+    "username": "Username",
+    "password": "Password",
+    "invalidCredentials": "Invalid username or password"
+  }
+  
